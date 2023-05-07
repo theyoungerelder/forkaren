@@ -1,2 +1,2 @@
 # forkaren
-sharing receipts and statements in real time
+sharing receipts and statements with better organization. 
